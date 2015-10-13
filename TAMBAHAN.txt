@@ -1,0 +1,5 @@
+Tambahan menu-menu untuk mengubah warna objek dari disabled menjadi putih, atau merah, atau hijau
+
+tambahan menu-menu untuk mengubah warna cahaya senter menjadi putih, merah, atau hijau
+
+dan tambahan PPT pengkayaan materi
